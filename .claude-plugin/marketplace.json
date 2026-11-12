@@ -1,0 +1,13 @@
+{
+  "name": "local-harness",
+  "owner": {
+    "name": "Bohdan Zhumabekov"
+  },
+  "plugins": [
+    {
+      "name": "task-harness",
+      "source": "./",
+      "description": "Multi-agent task harness for YouTrack issues"
+    }
+  ]
+}

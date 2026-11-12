@@ -1,0 +1,15 @@
+{
+  "name": "task-harness",
+  "version": "0.4.1",
+  "description": "YouTrack issue → triage → analysis → plan → sequential implementation on the feature branch → gates → scope/conventions/code review → PR",
+  "author": {
+    "name": "Bohdan Zhumabekov"
+  },
+  "keywords": [
+    "youtrack",
+    "multi-agent",
+    "vue",
+    "nuxt",
+    "review"
+  ]
+}
